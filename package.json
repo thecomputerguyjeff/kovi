@@ -1,11 +1,10 @@
 {
-  "scripts": {
-    "start": "node gulpfile.js"
-},
   "title": "Business Casual",
   "name": "startbootstrap-business-casual",
   "version": "4.0.0-beta.2",
   "description": "A casual HTML website theme for businesses built with Bootstrap",
+  "scripts": {
+    "start": "node gulpfile.js" },
   "keywords": [
     "css",
     "sass",
