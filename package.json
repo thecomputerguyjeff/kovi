@@ -3,6 +3,9 @@
   "name": "startbootstrap-business-casual",
   "version": "4.0.0-beta.2",
   "description": "A casual HTML website theme for businesses built with Bootstrap",
+  "engines": {
+    "node": "9.3.0"
+  },
   "scripts": {
     "start": "node app",
     "postinstall": "gulp default"
