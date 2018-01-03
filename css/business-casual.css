@@ -1,6 +1,6 @@
 body {
   font-family: 'Lora';
-  background:  url("../img/golf.jpg");
+  background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -69,7 +69,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(0, 48, 11, 0.6);
+  background-color: rgba(47, 23, 15, 0.9);
   font-family: 'Raleway';
 }
 
@@ -115,7 +115,6 @@ p {
   .intro .intro-img {
     width: 75%;
     float: right;
-    border-radius: 7px;
   }
   .intro .intro-text {
     left: 0;
@@ -140,7 +139,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(155, 97, 53, 0.7);
+  background-color: rgba(230, 167, 86, 0.9);
 }
 
 .cta .cta-inner {
@@ -236,8 +235,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #9B6153;
-  border-color: #9B6153;
+  background-color: #e6a756;
+  border-color: #e6a756;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
